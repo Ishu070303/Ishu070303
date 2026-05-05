@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/eshika-rawat-b518611b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:eshikarawat02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Ishu070303"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 </p>
 
 ---
@@ -108,7 +107,6 @@
 <p align="center">
   <a href="mailto:your@email.com"><strong>📧 eshikarawat02@gmail.com</strong></a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/your-linkedin"><strong>💼 https://www.linkedin.com/in/eshika-rawat-b518611b2/</strong></a> &nbsp;|&nbsp;
-  <a href="https://your-portfolio.com"><strong>🌐 Portfolio</strong></a>
 </p>
 
 ---
